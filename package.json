@@ -1,0 +1,18 @@
+{
+  "name": "gulp-version",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "haleywang",
+  "bugs": {
+    "url": "https://github.com/harleywang/gulp-version/issues"
+  },
+  "homepage": "https://github.com/harleywang/gulp-version",
+  "devDependencies": {
+    "gulp-util": "^3.0.0",
+    "preprocess": "^2.0.0",
+    "through2": "^0.5.1"
+  }
+}
